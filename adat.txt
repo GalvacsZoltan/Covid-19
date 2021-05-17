@@ -1,0 +1,12 @@
+{
+  "infected": 798573,
+  "activeInfected": 138384,
+  "deceased": 29213,
+  "recovered": 630976,
+  "quarantined": 16297,
+  "tested": 5649027,
+  "sourceUrl": "https://koronavirus.gov.hu",
+  "lastUpdatedAtSource": "2021-05-17T09:08:00.000Z",
+  "lastUpdatedAtApify": "2021-05-17T17:00:00.000Z",
+  "readMe": "https://apify.com/tugkan/covid-hu"
+}
